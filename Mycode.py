@@ -1,5 +1,5 @@
-//https://github.com/HayetIng/Calculator_code.git
-
+#https://github.com/HayetIng/Calculator_code.git
+#this a simple python code for a calculator
 # This function adds two numbers
 def add(x, y):
     return x + y
